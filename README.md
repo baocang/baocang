@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- [![Baocang Nie](https://github-profile-trophy.vercel.app/?username=baocang&theme=gitdimmed)](https://github.com/baocang/baocang) -->
+
+<a href="https://github.com/baocang/baocang">
+  <img width=1012 src="https://github-profile-trophy.vercel.app/?username=baocang&column=7&no-frame=true&margin-w=20"/>
+</a>
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=baocang&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baocang&layout=compact" />
+</div>
